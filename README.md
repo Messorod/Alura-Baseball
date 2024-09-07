@@ -1,4 +1,4 @@
-### **Baseball em Solo Brasileiro: Uma Busca Divertida!** ⚾️
+### **Baseball em Solo Brasileiro: Uma Busca Divertida!** ⚾️ - Imersão DEV com Alura e Google Gemini
 
 **O que faz essa aplicação?**
 
