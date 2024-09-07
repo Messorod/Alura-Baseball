@@ -7,7 +7,7 @@ let dados = [
     },
     {
         titulo: "Heitor Costa - GECEBS",
-        descricao: "Considerado a grande promessa do futuro no Baisebol Brasileiro, Jogando pelo Clube GECEBS, ainda na categoria T-Boll, o pequeno jogador vem desempenhando grandes habilidades, ainda há algumas fases para passar, mas poderemos contar com nosso pequeno e futuro atleta para a alegria neste esporte no Brasil! <br><br>ALURA, contamos com o seu PATROCÍNIO!",
+        descricao: "Considerado a grande promessa do futuro no Baisebol Brasileiro, Jogando pelo Clube GECEBS, ainda na categoria T-Boll, o pequeno jogador vem desempenhando grandes habilidades, ainda há algumas fases para passar, mas poderemos contar com nosso pequeno e futuro atleta para a alegria neste esporte no Brasil! <br><br>ALURA e GOOGLE, contamos com o seu PATROCÍNIO!",
         link: "https://www.tiktok.com/@messorodrigo/video/7406836554158640390",
         tags: "jogador baseball baseibol esporte seleção atleta melhor melhores"
     },
